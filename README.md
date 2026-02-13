@@ -186,8 +186,8 @@ I specialize in building **production-grade applications** with modern technolog
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitakr0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitakr0027&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitakr0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=amitakr0027&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=38BDF8&sideNums=38BDF8" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitakr0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitakr0027&theme=tokyonight" alt="GitHub Contribution Graph" />
