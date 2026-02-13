@@ -190,7 +190,9 @@ I specialize in building **production-grade applications** with modern technolog
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitakr0027&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitakr0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" />
-<img width="49%" src="https://ghchart.rshah.org/70A5FD/amitakr0027" alt="GitHub Contribution Chart" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitakr0027&theme=tokyonight" alt="GitHub Contribution Graph" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitakr0027&theme=tokyonight&utcOffset=5.5" alt="Contribution Activity" />
 
 </div>
 
