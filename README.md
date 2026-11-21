@@ -7,8 +7,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2B+Modern+Web+Technologies;Top+7+out+of+26%2C000%2B+at+INDIA+INNOVATES'26;Clean+Code+%7C+Scalable+Architecture;Open+to+Opportunities" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar0027/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar91344@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar911344@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitakr0027)
+
+</div>
+
+---
+
+## ⚡ Recruiter Quick View
+
+<div align="center">
+
+| 🎓 **Education** | 📅 **Graduating** | 🎯 **Looking for** | 🏆 **Best proof of work** |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE, LNCTS Bhopal<br/>**CGPA 8.16 / 10** | **2027** | Full-stack / SDE roles and internships | **BharatSeva** (live) · **FoodSnap** (live) · Top 7 of 26,000+ · AIR 228 of 82,798 |
+
+[🌐 BharatSeva Live](https://bharat-service-pi.vercel.app/) • [🍎 FoodSnap Live](https://foodsnap-plum.vercel.app) • [💻 All Repositories](https://github.com/amitakr0027?tab=repositories) • [✉️ amitkumar911344@gmail.com](mailto:amitkumar911344@gmail.com)
 
 </div>
 
@@ -21,7 +35,7 @@
 ```typescript
 const amitKumar = {
     location: "India 🇮🇳",
-    education: "B.Tech CSE, LNCTS Bhopal (Batch of 2027) | CGPA 8.19/10",
+    education: "B.Tech CSE, LNCTS Bhopal (Batch of 2027) | CGPA 8.16/10",
     role: "Full-Stack Developer",
     
     focus: [
@@ -34,8 +48,9 @@ const amitKumar = {
     achievements: [
         "Top 7 of 26,000+ entries - INDIA INNOVATES'26 (BharatSeva)",
         "All India Rank 228 / 82,798 - Amazon ML Challenge 2025 (Top 0.3%)",
+        "Cisco AICTE Virtual Internship in Artificial Intelligence (2026)",
         "Mentored 50+ students in Generative AI",
-        "Smart India Hackathon participant"
+        "Smart India Hackathon 2025 - cleared the internal selection round"
     ],
     
     approach: "Clean code, scalable systems, user-first design",
@@ -56,8 +71,22 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 
 | 🥇 **INDIA INNOVATES'26** | 🤖 **Amazon ML Challenge 2025** | 🎓 **Mentorship** | 🇮🇳 **Smart India Hackathon** |
 |:---:|:---:|:---:|:---:|
-| **Top 7** out of 26,000+ entries | **All India Rank 228** of 82,798 (Top 0.3%) | **50+ students** mentored in Generative AI | Participant |
-| Presented **BharatSeva** at the Bharat Mandapam finale, New Delhi, in front of judges | Predicted product prices from 75,000+ images (Team 0xer, team of 4) | Hands-on Generative AI guidance | Team-based problem solving |
+| **Top 7** out of 26,000+ entries | **All India Rank 228** of 82,798 (Top 0.3%) | **50+ students** mentored in Generative AI | **SIH 2025** – cleared the internal selection round |
+| Presented **BharatSeva** at the Bharat Mandapam finale, New Delhi, to the judges, in the presence of Delhi Chief Minister Rekha Gupta and Unstop CEO Ankit Aggarwal | Predicted product prices from 75,000+ images (Team 0xer, team of 4) | Hands-on Generative AI guidance | Team-based problem solving |
+
+</div>
+
+---
+
+## 🧑‍💼 Experience & Programs
+
+<div align="center">
+
+| Role / Program | Organisation | Period | What I did |
+|:---|:---:|:---:|:---|
+| **Full-Stack Developer** (hackathon project) | BharatSeva · INDIA INNOVATES'26 (Unstop) | Feb – Apr 2026 | Worked with a team on architecture, frontend, backend and deployment; designed complaint routing and SLA escalation workflows; integrated the Twilio WhatsApp API; **Top 7 of 26,000+** |
+| **Virtual Internship in Artificial Intelligence** | Cisco Networking Academy & AICTE | Jun – Aug 2026 | Completed Cisco's AI pathway: *Introduction to Modern AI* and *Apply AI: Analyzing Customer Reviews* · [Certificate](https://drive.google.com/file/d/1Kxj48itUziSdwTpspQ7eT_lLtMyHbxsl/view?usp=drivesdk) |
+| **Innovation, Design and Entrepreneurship (IDE) Bootcamp** | IIT Roorkee (TIDES, AICTE) | Apr 2026 | Participated in Edition 3, Phase 2 |
 
 </div>
 
@@ -114,6 +143,9 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 
 **Top 7 out of 26,000+ entries at INDIA INNOVATES'26 — presented at the national finale in New Delhi**
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://bharat-service-pi.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/adityatiwarig/Bharat-service.git)
+
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -121,6 +153,8 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
+
+**500+ complaints handled · 4 role-based dashboards · ~60% less manual triage effort · ~35% faster average resolution**
 
 </div>
 
@@ -134,15 +168,22 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 
 **Grievance Management**
 - AI-assisted handling of civic complaints
-- End-to-end grievance tracking
-- Citizen-friendly workflow
+- End-to-end tracking for citizens, L1/L2/L3 officers and admins (4 role-based dashboards)
+- Rule-based intelligence engine: keyword scoring, sentiment analysis, danger detection, spam filtering and hotspot detection
+- SLA escalation engine with deadline tracking
 
 **Communication**
-- Twilio WhatsApp integration
+- Twilio WhatsApp integration: file and track complaints without installing an app
+- Gemini-powered Hinglish/English citizen chatbot
 - Accessible to citizens where they already are
 
+**Insights & Reporting**
+- Ward-wise heatmap analytics
+- Geo-tagged evidence uploads
+- PDF export of reports
+
 **Security**
-- JWT-based authentication
+- JWT-based authentication and role-based access
 - Secure server-side architecture
 
 </td>
@@ -155,6 +196,7 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 // Next.js + TypeScript
 - Server/Client components
 - Type-safe codebase
+- Role-based dashboards
 - Deployed on Vercel
 ```
 
@@ -165,11 +207,13 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 - Redis for caching/performance
 - JWT authentication
 - Twilio WhatsApp API
+- SLA & escalation workflows
 ```
 
 **AI Integration**
 ```javascript
 // AI-assisted workflows
+- Gemini API chatbot (Hinglish/English)
 - Intelligent grievance processing
 - Prompt engineering
 ```
@@ -197,6 +241,8 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 
+**3M+ food items · A–E health grades · allergen alerts · 6 dietary categories**
+
 </div>
 
 <br/>
@@ -210,19 +256,19 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 **Smart Scanning**
 - Real-time barcode recognition
 - Camera integration with instant detection
-- OpenFoodFacts API product database integration
+- OpenFoodFacts API product database integration (3M+ items)
 
 **AI Analysis**
 - Powered by Google Gemini 3 Flash
 - Comprehensive nutrition breakdown
-- Health scoring algorithm
-- Ingredient analysis
+- Ingredient safety scoring and A–E health grades
+- Allergen detection and dietary classification across 6 categories
 
 **Personalization**
 - Custom allergen detection
 - User health profile tracking
 - Dietary preference alerts
-- Scan history & favorites
+- Scan history & favorites (persistent across sessions)
 
 **Security & Performance**
 - Server-side API architecture
@@ -294,15 +340,15 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 
 <div align="center">
 
-| Certification | Issuer | Date |
-|:---|:---:|:---:|
-| [Java Full Stack (Digital Skills Readiness Program)](https://drive.google.com/file/d/1h6IzessTOUYVqjTl15Rl0iFBKMHEv08p/view?usp=drivesdk) | Wipro TalentNext | Jul – Oct 2026 |
-| [Cisco AICTE Virtual Internship in Artificial Intelligence](https://drive.google.com/file/d/1Kxj48itUziSdwTpspQ7eT_lLtMyHbxsl/view?usp=drivesdk) | Cisco Networking Academy & AICTE | Jun – Aug 2026 |
-| Prompt Engineering and ChatGPT | NASSCOM FutureSkills Prime | Sep 2026 |
-| Data Structures & Algorithms using Java | Infosys Springboard | Mar 2026 |
-| [Agile Project Management](https://ude.my/UC-14a29770-e13c-47c9-815b-469dd7fada63) | Udemy | May 2026 |
-| [Learn Azure DevOps CI/CD Pipelines](https://ude.my/UC-edc37e30-63a0-4b42-8df6-49584d8423b6) | Udemy | May 2026 |
-| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle University | Sep 2025 |
+| Certification | Issuer | Date | Credential |
+|:---|:---:|:---:|:---:|
+| Java Full Stack (Digital Skills Readiness Program) | Wipro TalentNext | Jul – Oct 2026 | [View](https://drive.google.com/file/d/1h6IzessTOUYVqjTl15Rl0iFBKMHEv08p/view?usp=drivesdk) |
+| Cisco AICTE Virtual Internship in Artificial Intelligence | Cisco Networking Academy & AICTE | Jun – Aug 2026 | [View](https://drive.google.com/file/d/1Kxj48itUziSdwTpspQ7eT_lLtMyHbxsl/view?usp=drivesdk) |
+| Prompt Engineering and ChatGPT | NASSCOM FutureSkills Prime | Sep 2026 | [View](https://drive.google.com/file/d/1n-nNNf-im2E3AWcefCrzXACb4oXZ7bbi/view?usp=drive_link) |
+| Data Structures & Algorithms using Java | Infosys Springboard | Mar 2026 | [View](https://drive.google.com/file/d/1VJPg_VNMTGYrODzGJYKKLmSDZXietHAA/view?usp=sharing) |
+| Agile Project Management | Udemy | May 2026 | [View](https://ude.my/UC-14a29770-e13c-47c9-815b-469dd7fada63) |
+| Learn Azure DevOps CI/CD Pipelines | Udemy | May 2026 | [View](https://ude.my/UC-edc37e30-63a0-4b42-8df6-49584d8423b6) |
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle University | Sep 2025 | [View](https://drive.google.com/file/d/11T5hflmp5sdM1VqlBbKaiCH_YIeT_cSt/view?usp=sharing) |
 
 </div>
 
@@ -384,10 +430,11 @@ graph LR
 ### 💼 Technical Skills
 
 - ✅ Full-stack development (Next.js, React, TypeScript, Node.js)
-- ✅ Java, SQL & strong DSA fundamentals
-- ✅ AI/ML integration (Google Gemini, OpenAI)
+- ✅ Java, SQL & strong DSA fundamentals (300+ problems solved)
+- ✅ AI/ML integration (Google Gemini, OpenAI) and an image-based ML competition result (AIR 228)
 - ✅ Database design (PostgreSQL + Prisma, Redis, Firestore, MongoDB)
-- ✅ RESTful API development & JWT authentication
+- ✅ RESTful API development & JWT authentication with role-based access
+- ✅ Workflow automation: rule-based prioritization, SLA tracking and escalation
 - ✅ Third-party integrations (Twilio WhatsApp, OpenFoodFacts, FHIR R4)
 - ✅ Cloud deployment (Vercel, Firebase, GCP)
 - ✅ CI/CD & Agile fundamentals (Azure DevOps, Agile certified)
@@ -402,7 +449,7 @@ graph LR
 - ✅ Proven under pressure — national-level finalist at INDIA INNOVATES'26
 - ✅ Competitive problem solver — Top 0.3% at Amazon ML Challenge 2025
 - ✅ Mentor — guided 50+ students in Generative AI
-- ✅ Clear technical communication & presentation skills
+- ✅ Clear technical communication & presentation skills — presented BharatSeva at the national finale
 - ✅ Collaborative team player
 - ✅ Open to feedback and mentorship
 - ✅ Continuous learning mindset
@@ -451,13 +498,14 @@ graph LR
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar0027/)
-[![Email](https://img.shields.io/badge/Email-Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar91344@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_me_a_line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar911344@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_for_updates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitakr0027)
 
 <br/>
 
 ### 📱 Check Out My Work
 
+[![BharatSeva Demo](https://img.shields.io/badge/🏛️_BharatSeva-Live_Application-00C853?style=for-the-badge)](https://bharat-service-pi.vercel.app/)
 [![FoodSnap Demo](https://img.shields.io/badge/🍎_FoodSnap-Live_Application-00C853?style=for-the-badge)](https://foodsnap-plum.vercel.app)
 [![GitHub Repos](https://img.shields.io/badge/💻_Repositories-Explore_Projects-181717?style=for-the-badge&logo=github)](https://github.com/amitakr0027?tab=repositories)
 
