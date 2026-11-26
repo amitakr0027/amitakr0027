@@ -20,7 +20,7 @@
 
 | 🎓 **Education** | 📅 **Graduating** | 🎯 **Looking for** | 🏆 **Best proof of work** |
 |:---:|:---:|:---:|:---:|
-| B.Tech CSE, LNCTS Bhopal<br/>**CGPA 8.16 / 10** | **2027** | Full-stack / SDE roles and internships | **BharatSeva** (live) · **FoodSnap** (live) · Top 7 of 26,000+ · AIR 228 of 82,798 |
+| B.Tech CSE, LNCTS Bhopal<br/>**CGPA 8.16 / 10** | **2027** | Full-stack / SDE roles and internships | **BharatSeva** (live) · **FoodSnap** (live) · Top 7 of 26,000+ · AIR 228 of 82,798 · **Merged PR in Jenkins** |
 
 [🌐 BharatSeva Live](https://bharat-service-pi.vercel.app/) • [🍎 FoodSnap Live](https://foodsnap-plum.vercel.app) • [💻 All Repositories](https://github.com/amitakr0027?tab=repositories) • [✉️ amitkumar911344@gmail.com](mailto:amitkumar911344@gmail.com)
 
@@ -49,6 +49,7 @@ const amitKumar = {
         "Top 7 of 26,000+ entries - INDIA INNOVATES'26 (BharatSeva)",
         "All India Rank 228 / 82,798 - Amazon ML Challenge 2025 (Top 0.3%)",
         "Cisco AICTE Virtual Internship in Artificial Intelligence (2026)",
+        "Open source: merged PR (#1809) in Jenkins git-client-plugin; another (#1808) under review",
         "Mentored 50+ students in Generative AI",
         "Smart India Hackathon 2025 - cleared the internal selection round"
     ],
@@ -375,7 +376,7 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitakr0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitakr0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=amitakr0027&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=38BDF8&sideNums=38BDF8" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitakr0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" />
@@ -455,6 +456,7 @@ graph LR
 - ✅ Third-party integrations (Twilio WhatsApp, OpenFoodFacts, FHIR R4)
 - ✅ Cloud deployment (Vercel, Firebase, GCP)
 - ✅ CI/CD & Agile fundamentals (Azure DevOps, Agile certified)
+- ✅ Open-source contributions in Java (Jenkins git-client-plugin): merged documentation fix, plus a unit-tested pull request under review (JUnit 5, SpotBugs, CheckStyle)
 - ✅ Security best practices
 
 </td>
@@ -468,7 +470,7 @@ graph LR
 - ✅ Mentor — guided 50+ students in Generative AI
 - ✅ Clear technical communication & presentation skills — presented BharatSeva at the national finale
 - ✅ Collaborative team player
-- ✅ Open to feedback and mentorship
+- ✅ Open to feedback and mentorship — addressed a maintainer's review feedback to get an open-source PR merged
 - ✅ Continuous learning mindset
 - ✅ Documentation and code quality focus
 
@@ -496,7 +498,7 @@ graph LR
 |:---:|:---:|:---:|:---:|
 | Scaling AI Applications | Advanced System Design | Full-Time SDE Roles | Cloud Architecture |
 | Performance Optimization | Graphs & Dynamic Programming | Internships | DevOps Practices |
-| Open Source Contributions | Next.js 15 Features | Freelance & Remote Projects | Generative AI |
+| Open Source: Jenkins git-client-plugin | Next.js 15 Features | Freelance & Remote Projects | Generative AI |
 
 </div>
 
