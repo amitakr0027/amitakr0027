@@ -92,6 +92,23 @@ I'm a final-year Computer Science student who builds **full-stack applications w
 
 ---
 
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+**Contributing to [Jenkins](https://www.jenkins.io/), the open-source automation server — [Git client plugin](https://github.com/jenkinsci/git-client-plugin) (Java)**
+
+| Pull request | Status | What I did |
+|:---|:---:|:---|
+| [**#1809** · Update MinGit installation instructions for MinGit 2.56.0 and later](https://github.com/jenkinsci/git-client-plugin/pull/1809)<br/>Fixes [#1807](https://github.com/jenkinsci/git-client-plugin/issues/1807) | ✅ **Merged** | Documentation fix the maintainer asked contributors for. Checked the contents of the new MinGit release zip, tested two install configurations on a local Jenkins 2.516.3, replaced the configuration screenshot, and addressed review feedback (use a placeholder download URL instead of GitHub.com). |
+| [**#1808** · Show hex exit code of failed git commands on Windows](https://github.com/jenkinsci/git-client-plugin/pull/1808)<br/>Fixes [#1612](https://github.com/jenkinsci/git-client-plugin/issues/1612) | 🔄 **Open, under review** | Windows reports crashes as signed numbers like `-1073741502` instead of the searchable `0xC0000142`. Added a small, unit-tested helper that appends the hex value and a link to Microsoft's error-code documentation, leaving the existing message text unchanged. CI passes on Linux and Windows. |
+
+**Skills used:** Java, Maven, JUnit 5, static analysis (SpotBugs, CheckStyle), git, CI on Linux and Windows, code review, documentation
+
+</div>
+
+---
+
 ## 🛠️ Technology Stack
 
 <div align="center">
